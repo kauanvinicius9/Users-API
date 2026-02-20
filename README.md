@@ -107,24 +107,3 @@ pip install -r requirements.txt
 ```powershell
 uvicorn main:app --reload
 ```
-
-To test your API, you can use one of these Software applications: 
-
----
-
-<div align="left">
-  <a href="https://www.postman.com/" target="blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo" title="Download Postman" />
-  </a>
-  <img width="3" />
-  <a href="https://insomnia.rest/download" target="blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/insomnia-5E00D3?logo=insomnia&logoColor=white&style=for-the-badge" height="40" alt="insomnia logo"  title="Download Insomnia" /> 
-  </a>
-</div>
-
-
-
-
-
-
-
