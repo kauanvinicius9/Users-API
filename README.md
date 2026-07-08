@@ -1,4 +1,4 @@
-**<h2>API with FastAPI</h2>**  
+# FastAPI
 
 ###
 
