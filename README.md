@@ -1,4 +1,4 @@
-# CRUD  
+# CRUD
 
 A lightweight REST API built with **FastAPI** to demonstrate user management fundamentals. The project focuses on clean architecture, request validation, and RESTful design without introducing database complexity.
 
