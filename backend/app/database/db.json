@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "name": "Quintino Santos",
+        "email": "quintino.santos@empresa.com",
+        "department": "Tecnologia",
+        "position": "QA Analyst",
+        "hire_date": "2019-04-08",
+        "salary": 4404.7,
+        "active": false
+    },
+    {
+        "id": 2,
+        "name": "Ximena Alves",
+        "email": "ximena.alves@empresa.com",
+        "department": "Recursos Humanos",
+        "position": "Especialista em Treinamento",
+        "hire_date": "2015-01-03",
+        "salary": 5654.48,
+        "active": true
+    },
+    {
+        "id": 3,
+        "name": "Bruno Alves",
+        "email": "bruno.alves@empresa.com",
+        "department": "Marketing",
+        "position": "Gerente de Marketing",
+        "hire_date": "2018-08-19",
+        "salary": 6595.41,
+        "active": true
+    },
+    {
+        "id": 4,
+        "name": "Yuri Costa",
+        "email": "yuri.costa@empresa.com",
+        "department": "Jurídico",
+        "position": "Assistente Jurídico",
+        "hire_date": "2019-03-07",
+        "salary": 17323.97,
+        "active": true
+    },
+    {
+        "id": 5,
+        "name": "Felipe Carvalho",
+        "email": "felipe.carvalho@empresa.com",
+        "department": "Recursos Humanos",
+        "position": "Gerente de RH",
+        "hire_date": "2020-10-09",
+        "salary": 14952.63,
+        "active": true
+    },
+    {
+        "id": 6,
+        "name": "Kelly Santos",
+        "email": "kelly.santos@empresa.com",
+        "department": "Jurídico",
+        "position": "Advogado",
+        "hire_date": "2023-05-27",
+        "salary": 12132.51,
+        "active": true
+    },
+    {
+        "id": 7,
+        "name": "Xavier Monteiro",
+        "email": "xavier.monteiro@empresa.com",
+        "department": "Marketing",
+        "position": "Analista de Marketing",
+        "hire_date": "2015-11-08",
+        "salary": 14414.48,
+        "active": true
+    },
+    {
+        "id": 8,
+        "name": "Olivia Santos",
+        "email": "olivia.santos@empresa.com",
+        "department": "Jurídico",
+        "position": "Assistente Jurídico",
+        "hire_date": "2022-11-27",
+        "salary": 7964.35,
+        "active": true
+    },
+    {
+        "id": 9,
+        "name": "Nicolas Nascimento",
+        "email": "nicolas.nascimento@empresa.com",
+        "department": "Recursos Humanos",
+        "position": "Recrutador",
+        "hire_date": "2023-12-08",
+        "salary": 4781.76,
+        "active": true
+    },
+    {
+        "id": 10,
+        "name": "Quintino Alves",
+        "email": "quintino.alves@empresa.com",
+        "department": "Marketing",
+        "position": "Social Media",
+        "hire_date": "2015-04-27",
+        "salary": 2707.18,
+        "active": true
+    },
+    {
+        "id": 11,
+        "name": "Rafael Oliveira",
+        "email": "rafael.oliveira@empresa.com",
+        "department": "Marketing",
+        "position": "Social Media",
+        "hire_date": "2018-11-16",
+        "salary": 8450.98,
+        "active": true
+    },
+    {
+        "id": 12,
+        "name": "Fabio Pereira",
+        "email": "fabio.pereira@empresa.com",
+        "department": "Vendas",
+        "position": "Executivo de Contas",
+        "hire_date": "2018-12-18",
+        "salary": 10715.84,
+        "active": true
+    },
+    {
+        "id": 13,
+        "name": "Daniel Monteiro",
+        "email": "daniel.monteiro@empresa.com",
+        "department": "Jurídico",
+        "position": "Assistente Jurídico",
+        "hire_date": "2018-03-17",
+        "salary": 9997.55,
+        "active": true
+    },
+    {
+        "id": 14,
+        "name": "Hugo Pereira",
+        "email": "hugo.pereira@empresa.com",
+        "department": "Financeiro",
+        "position": "Auxiliar Contábil",
+        "hire_date": "2024-02-13",
+        "salary": 8229.58,
+        "active": true
+    },
+    {
+        "id": 15,
+        "name": "Julio Nascimento",
+        "email": "julio.nascimento@empresa.com",
+        "department": "Logística",
+        "position": "Analista de Logística",
+        "hire_date": "2025-12-04",
+        "salary": 12971.02,
+        "active": true
+    },
+    {
+        "id": 16,
+        "name": "Rafael Araujo",
+        "email": "rafael.araujo@empresa.com",
+        "department": "Recursos Humanos",
+        "position": "Gerente de RH",
+        "hire_date": "2021-03-15",
+        "salary": 2251.28,
+        "active": true
+    },
+    {
+        "id": 17,
+        "name": "William Nascimento",
+        "email": "william.nascimento@empresa.com",
+        "department": "Logística",
+        "position": "Analista de Logística",
+        "hire_date": "2023-02-28",
+        "salary": 12079.74,
+        "active": true
+    },
+    {
+        "id": 18,
+        "name": "Ivana Barros",
+        "email": "ivana.barros@empresa.com",
+        "department": "Marketing",
+        "position": "Designer Gráfico",
+        "hire_date": "2020-03-18",
+        "salary": 17265.3,
+        "active": true
+    },
+    {
+        "id": 19,
+        "name": "Ana Barros",
+        "email": "ana.barros@empresa.com",
+        "department": "Operações",
+        "position": "Coordenador de Operações",
+        "hire_date": "2015-02-12",
+        "salary": 16083.81,
+        "active": true
+    },
+    {
+        "id": 20,
+        "name": "Thiago Almeida",
+        "email": "thiago.almeida@empresa.com",
+        "department": "Tecnologia",
+        "position": "Desenvolvedor Frontend",
+        "hire_date": "2024-02-03",
+        "salary": 13764.14,
+        "active": true
+    },
+    {
+        "id": 21,
+        "name": "Yuri Alves",
+        "email": "yuri.alves@empresa.com",
+        "department": "Financeiro",
+        "position": "Contador",
+        "hire_date": "2025-08-18",
+        "salary": 4809.01,
+        "active": true
+    },
+    {
+        "id": 22,
+        "name": "Otavio Gomes",
+        "email": "otavio.gomes@empresa.com",
+        "department": "Marketing",
+        "position": "Designer Gráfico",
+        "hire_date": "2026-05-13",
+        "salary": 17923.36,
+        "active": true
+    },
+    {
+        "id": 23,
+        "name": "Elisa Ribeiro",
+        "email": "elisa.ribeiro@empresa.com",
+        "department": "Atendimento ao Cliente",
+        "position": "Atendente",
+        "hire_date": "2018-04-03",
+        "salary": 7541.75,
+        "active": true
+    },
+    {
+        "id": 24,
+        "name": "Olivia Monteiro",
+        "email": "olivia.monteiro@empresa.com",
+        "department": "Marketing",
+        "position": "Analista de Marketing",
+        "hire_date": "2016-12-21",
+        "salary": 3130.21,
+        "active": false
+    },
+    {
+        "id": 25,
+        "name": "Carla Araujo",
+        "email": "carla.araujo@empresa.com",
+        "department": "Recursos Humanos",
+        "position": "Recrutador",
+        "hire_date": "2019-11-16",
+        "salary": 5584.94,
+        "active": false
+    },
+    {
+        "id": 26,
+        "name": "Marina Monteiro",
+        "email": "marina.monteiro@empresa.com",
+        "department": "Atendimento ao Cliente",
+        "position": "Atendente",
+        "hire_date": "2022-07-07",
+        "salary": 3690.35,
+        "active": true
+    },
+    {
+        "id": 27,
+        "name": "Wanda Gomes",
+        "email": "wanda.gomes@empresa.com",
+        "department": "Jurídico",
+        "position": "Assistente Jurídico",
+        "hire_date": "2026-01-22",
+        "salary": 12524.6,
+        "active": true
+    },
+    {
+        "id": 28,
+        "name": "Diego Carvalho",
+        "email": "diego.carvalho@empresa.com",
+        "department": "Operações",
+        "position": "Analista de Operações",
+        "hire_date": "2018-04-07",
+        "salary": 10673.31,
+        "active": false
+    },
+    {
+        "id": 29,
+        "name": "Lucas Nascimento",
+        "email": "lucas.nascimento@empresa.com",
+        "department": "Atendimento ao Cliente",
+        "position": "Atendente",
+        "hire_date": "2016-08-26",
+        "salary": 15809.32,
+        "active": true
+    },
+    {
+        "id": 30,
+        "name": "Diego Alves",
+        "email": "diego.alves@empresa.com",
+        "department": "Tecnologia",
+        "position": "Desenvolvedor Backend",
+        "hire_date": "2018-03-14",
+        "salary": 9873.13,
+        "active": true
+    },
+    {
+        "id": 31,
+        "name": "Zeca Souza",
+        "email": "zeca.souza@empresa.com",
+        "department": "Financeiro",
+        "position": "Auxiliar Contábil",
+        "hire_date": "2015-07-09",
+        "salary": 16838.99,
+        "active": true
+    },
+    {
+        "id": 32,
+        "name": "Sofia Gomes",
+        "email": "sofia.gomes@empresa.com",
+        "department": "Logística",
+        "position": "Coordenador de Logística",
+        "hire_date": "2026-08-05",
+        "salary": 5200.39,
+        "active": true
+    },
+    {
+        "id": 33,
+        "name": "Diego Monteiro",
+        "email": "diego.monteiro@empresa.com",
+        "department": "Logística",
+        "position": "Analista de Logística",
+        "hire_date": "2026-06-02",
+        "salary": 2992.25,
+        "active": true
+    },
+    {
+        "id": 34,
+        "name": "Julio Costa",
+        "email": "julio.costa@empresa.com",
+        "department": "Tecnologia",
+        "position": "DevOps Engineer",
+        "hire_date": "2016-03-03",
+        "salary": 11601.55,
+        "active": true
+    },
+    {
+        "id": 35,
+        "name": "Pedro Carvalho",
+        "email": "pedro.carvalho@empresa.com",
+        "department": "Recursos Humanos",
+        "position": "Recrutador",
+        "hire_date": "2024-10-02",
+        "salary": 11986.23,
+        "active": true
+    },
+    {
+        "id": 36,
+        "name": "Natalia Monteiro",
+        "email": "natalia.monteiro@empresa.com",
+        "department": "Logística",
+        "position": "Motorista",
+        "hire_date": "2019-04-22",
+        "salary": 13515.83,
+        "active": true
+    },
+    {
+        "id": 37,
+        "name": "Zeca Pereira",
+        "email": "zeca.pereira@empresa.com",
+        "department": "Vendas",
+        "position": "Coordenador de Vendas",
+        "hire_date": "2020-02-01",
+        "salary": 9440.91,
+        "active": true
+    },
+    {
+        "id": 38,
+        "name": "Gabriela Oliveira",
+        "email": "gabriela.oliveira@empresa.com",
+        "department": "Logística",
+        "position": "Analista de Logística",
+        "hire_date": "2023-05-05",
+        "salary": 16945.5,
+        "active": true
+    },
+    {
+        "id": 39,
+        "name": "Pedro Fernandes",
+        "email": "pedro.fernandes@empresa.com",
+        "department": "Vendas",
+        "position": "Executivo de Contas",
+        "hire_date": "2022-09-23",
+        "salary": 6979.77,
+        "active": true
+    },
+    {
+        "id": 40,
+        "name": "Renata Ribeiro",
+        "email": "renata.ribeiro@empresa.com",
+        "department": "Tecnologia",
+        "position": "QA Analyst",
+        "hire_date": "2023-05-22",
+        "salary": 3836.67,
+        "active": true
+    },
+    {
+        "id": 41,
+        "name": "Queila Santos",
+        "email": "queila.santos@empresa.com",
+        "department": "Recursos Humanos",
+        "position": "Recrutador",
+        "hire_date": "2019-05-20",
+        "salary": 5527.95,
+        "active": true
+    },
+    {
+        "id": 42,
+        "name": "Tatiane Nascimento",
+        "email": "tatiane.nascimento@empresa.com",
+        "department": "Logística",
+        "position": "Motorista",
+        "hire_date": "2019-01-03",
+        "salary": 12221.69,
+        "active": true
+    },
+    {
+        "id": 43,
+        "name": "Carla Silva",
+        "email": "carla.silva@empresa.com",
+        "department": "Operações",
+        "position": "Analista de Operações",
+        "hire_date": "2025-05-06",
+        "salary": 13911.45,
+        "active": true
+    },
+    {
+        "id": 44,
+        "name": "Daniel Alves",
+        "email": "daniel.alves@empresa.com",
+        "department": "Tecnologia",
+        "position": "Desenvolvedor Backend",
+        "hire_date": "2016-12-05",
+        "salary": 10820.33,
+        "active": true
+    },
+    {
+        "id": 45,
+        "name": "Natalia Alves",
+        "email": "natalia.alves@empresa.com",
+        "department": "Financeiro",
+        "position": "Auxiliar Contábil",
+        "hire_date": "2017-01-10",
+        "salary": 7961.49,
+        "active": true
+    },
+    {
+        "id": 46,
+        "name": "Carla Fernandes",
+        "email": "carla.fernandes@empresa.com",
+        "department": "Marketing",
+        "position": "Designer Gráfico",
+        "hire_date": "2025-02-12",
+        "salary": 14525.84,
+        "active": true
+    },
+    {
+        "id": 47,
+        "name": "Camila Barros",
+        "email": "camila.barros@empresa.com",
+        "department": "Financeiro",
+        "position": "Contador",
+        "hire_date": "2017-03-14",
+        "salary": 2591.62,
+        "active": true
+    },
+    {
+        "id": 48,
+        "name": "Vitor Gomes",
+        "email": "vitor.gomes@empresa.com",
+        "department": "Marketing",
+        "position": "Social Media",
+        "hire_date": "2017-12-04",
+        "salary": 8244.16,
+        "active": false
+    },
+    {
+        "id": 49,
+        "name": "Giovana Almeida",
+        "email": "giovana.almeida@empresa.com",
+        "department": "Marketing",
+        "position": "Gerente de Marketing",
+        "hire_date": "2020-05-27",
+        "salary": 14766.46,
+        "active": true
+    },
+    {
+        "id": 50,
+        "name": "Bruno Rodrigues",
+        "email": "bruno.rodrigues@empresa.com",
+        "department": "Jurídico",
+        "position": "Assistente Jurídico",
+        "hire_date": "2019-02-25",
+        "salary": 6610.17,
+        "active": true
+    }
+]
